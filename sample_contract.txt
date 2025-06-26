@@ -1,0 +1,39 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into on January 15, 2024, between TechCorp Solutions LLC, a Delaware limited liability company ("Company"), and ClientBusiness Inc., a California corporation ("Client").
+
+1. SERVICES
+Company agrees to provide software development services including but not limited to custom application development, database design, and system integration ("Services") as detailed in Exhibit A attached hereto and incorporated by reference.
+
+2. TERM
+This Agreement shall commence on February 1, 2024, and shall continue for a period of twelve (12) months unless terminated earlier in accordance with the provisions herein.
+
+3. COMPENSATION
+Client agrees to pay Company a total fee of $150,000 for the Services, payable in monthly installments of $12,500 due on the first day of each month. Late payments shall incur a penalty of 1.5% per month.
+
+4. INTELLECTUAL PROPERTY
+All intellectual property created during the performance of Services shall remain the exclusive property of Company. Client is granted a non-exclusive, non-transferable license to use the deliverables solely for internal business purposes.
+
+5. LIABILITY
+COMPANY SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, REGARDLESS OF THE CAUSE OF ACTION. COMPANY'S TOTAL LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE TOTAL AMOUNT PAID BY CLIENT HEREUNDER.
+
+6. CONFIDENTIALITY
+Each party acknowledges that it may have access to confidential information of the other party. Each party agrees to maintain in confidence all confidential information and not to disclose such information to third parties without prior written consent.
+
+7. TERMINATION
+Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within thirty (30) days after written notice.
+
+8. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles.
+
+9. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, or agreements relating to the subject matter hereof.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+TECHCORP SOLUTIONS LLC          CLIENTBUSINESS INC.
+
+By: _________________________   By: _________________________
+Name: John Smith                Name: Jane Doe
+Title: CEO                      Title: CTO
+Date: _______________          Date: _______________
